@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack",
-    "deploy": "gh-pages -d dist src"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://RatzGabriel.github.io/To-Do-App",
+  "homepage": "https://RatzGabriel.github.io/To-Do-App",
   "devDependencies": {
     "web": "0.0.2",
     "webpack": "^5.14.0",
