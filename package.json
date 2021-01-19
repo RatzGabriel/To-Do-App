@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://RatzGabriel.github.io/To-Do-App",
+  "homepage": "https://RatzGabriel.github.io/ToDo",
   "devDependencies": {
     "web": "0.0.2",
     "webpack": "^5.14.0",
